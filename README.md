@@ -1,2 +1,2 @@
 # RollDiceSimulator
-simulate rolling dice with python
+simulate rolling dice with python, edits
